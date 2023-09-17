@@ -3020,7 +3020,7 @@ function reload() {
 
 // 侧边栏开关
 if (localStorage.getItem("rs") == undefined) {
-  localStorage.setItem("rs", "none");
+  localStorage.setItem("rs", "block");
 }
 if (localStorage.getItem("rs") == "block") {
   document.getElementById("rightSide").innerText = `:root{--rightside-display: block}`;
