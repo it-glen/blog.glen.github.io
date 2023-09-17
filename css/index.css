@@ -4789,7 +4789,7 @@ h1.page-title + .tag-cloud-list {
 #rightside {
   position: fixed;
   right: -48px;
-  bottom: 40px;
+  bottom: 30px;
   z-index: 100;
   opacity: 0;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -7773,7 +7773,8 @@ input#pic-link {
 
 /* heo 加载动画头像 */
 .loading-img {
-  background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp)
+  /* background: url(https://tuchuang.voooe.cn/images/2023/01/02/avatar.webp) */
+  background: url(/img/blog/img/boy_cat.jpg)
     no-repeat center center;
   background-size: cover;
 }
