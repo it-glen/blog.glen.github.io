@@ -99,7 +99,8 @@ function getDistance(e1, n1, e2, n2) {
 
 function showWelcome() {
 
-  let dist = getDistance(113.34499552, 23.15537143, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  // let dist = getDistance(113.34499552, 23.15537143, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
+  let dist = getDistance(30.527385,114.355178, ipLoacation.result.location.lng, ipLoacation.result.location.lat); //这里换成自己的经纬度
   let pos = ipLoacation.result.ad_info.nation;
   let ip;
   let posdesc;
@@ -1283,7 +1284,7 @@ function share_() {
     // 截取标题
     var title = document.title;
     var subTitle = title.endsWith("| Fomalhaut🥝") ? title.substring(0, title.length - 14) : title;
-    navigator.clipboard.writeText('Fomalhaut🥝的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
+    navigator.clipboard.writeText('glen & blog的站内分享\n标题：' + subTitle + '\n链接：' + url + '\n欢迎来访！🍭🍭🍭');
     new Vue({
       data: function () {
         this.$notify({
@@ -3020,7 +3021,7 @@ function reload() {
 
 // 侧边栏开关
 if (localStorage.getItem("rs") == undefined) {
-  localStorage.setItem("rs", "block");
+  localStorage.setItem("rs", "none");
 }
 if (localStorage.getItem("rs") == "block") {
   document.getElementById("rightSide").innerText = `:root{--rightside-display: block}`;
