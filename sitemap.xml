@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://blog.itglen.cn/posts/77770c79.html</loc>
+    
+    <lastmod>2023-12-03</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.itglen.cn/life/music/index.html</loc>
     
     <lastmod>2023-09-17</lastmod>
@@ -38,15 +47,6 @@
   </url>
   
   <url>
-    <loc>https://blog.itglen.cn/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.itglen.cn/box/gallery/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
@@ -56,7 +56,25 @@
   </url>
   
   <url>
+    <loc>https://blog.itglen.cn/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.itglen.cn/box/nav/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.itglen.cn/personal/bb/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -83,25 +101,7 @@
   </url>
   
   <url>
-    <loc>https://blog.itglen.cn/personal/bb/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://blog.itglen.cn/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.itglen.cn/site/time/index.html</loc>
     
     <lastmod>2023-03-22</lastmod>
     
@@ -137,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://blog.itglen.cn/site/time/index.html</loc>
+    
+    <lastmod>2023-03-22</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.itglen.cn/posts/2013454d.html</loc>
     
     <lastmod>2022-10-23</lastmod>
@@ -157,7 +166,7 @@
 
   <url>
     <loc>https://blog.itglen.cn/</loc>
-    <lastmod>2023-09-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -165,14 +174,21 @@
   
   <url>
     <loc>https://blog.itglen.cn/tags/Markdown/</loc>
-    <lastmod>2023-09-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://blog.itglen.cn/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/</loc>
-    <lastmod>2023-09-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.itglen.cn/tags/TEST/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -181,7 +197,14 @@
   
   <url>
     <loc>https://blog.itglen.cn/categories/%E6%BC%94%E7%A4%BA/</loc>
-    <lastmod>2023-09-19</lastmod>
+    <lastmod>2023-12-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.itglen.cn/categories/TEST/</loc>
+    <lastmod>2023-12-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
